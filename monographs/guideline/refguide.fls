@@ -1,0 +1,6 @@
+PWD /Users/rknot/Github/book_LaTeX_template/monographs/guideline
+INPUT /usr/local/texlive/2022/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/rknot/Github/book_LaTeX_template/monographs/guideline/refguide.tex
+OUTPUT refguide.log

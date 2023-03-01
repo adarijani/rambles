@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1675287548 "/Users/rknot/Github/book_LaTeX_template/monographs/guideline/refguide.tex" "refguide.pdf" "refguide" 1675287548 2
+  "/Users/rknot/Github/book_LaTeX_template/monographs/guideline/refguide.tex" 1674985610 39674 cb98585260956b77b730f477980358db ""
+  "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1675198599 7877892 1079c1e153a536b4f9783095c9deebf7 ""
+  "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "refguide.aux" 1675287548 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "refguide.tex" 1674985610 39674 cb98585260956b77b730f477980358db ""
+  "svmono.cls" 0 -1 0 ""
+  (generated)
+  "refguide.aux"
+  "refguide.log"
+  "refguide.pdf"
+  (rewritten before read)
